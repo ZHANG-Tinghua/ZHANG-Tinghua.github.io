@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -196,23 +196,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: CTex
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: MATLAB
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SolidWorks
+        level: 80%
 
 footer: >
     Welcom to Tinghua's website!
