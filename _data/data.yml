@@ -78,7 +78,7 @@ publications:
     intro: |
 
     papers:
-      - title: T. Zhang, Z. Zhang, B. Lin, J. Xue, J. Wang and S. Song, "Towards Tracking by 2D-target Registration for Surgical Optical Tracking System," 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO), Sanya, China, 2021, pp. 286-291, doi: 10.1109/ROBIO54168.2021.9739255.
+      - title: "Towards Tracking by 2D-target Registration for Surgical Optical Tracking System," 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO), Sanya, China, 2021, pp. 286-291, doi: 10.1109/ROBIO54168.2021.9739255.
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
