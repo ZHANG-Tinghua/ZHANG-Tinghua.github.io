@@ -92,19 +92,24 @@ publications:
 experiences:
     title: Awards
     info:
-      - role: National scholarship
-        time: 2018
-        company: Startup Hubs, San Francisco
+      - role: Best Student Paper Finalist
+        time: 2022
+        company: 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+        details: |
+    
+      - role: Outstanding Graduates
+        time: 2020
+        company: Jimei University
         details: |
            
-      - role: National second prize of National University Student intelligent Car Race
+      - role: National second prize 
         time: 2018
-        company: Chinese Association of Automation
+        company: National University Student intelligent Car Race, Chinese Association of Automation
         details: |
 
       - role: National scholarship
         time: 2018
-        company: Ministry of Education of the People’s Republic of China
+        company: Ministry of Education of the People's Republic of China
         details: |
 
 ##projects:
