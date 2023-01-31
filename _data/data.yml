@@ -88,10 +88,10 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Towards Tracking by 2D-target Registration for Surgical Optical Tracking System
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: T Zhang, Z Zhang, B Lin, J Xue, J Wang, S Song
+        conference: "2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
 
 experiences:
     title: Awards
@@ -100,8 +100,6 @@ experiences:
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-           ## - Bullet point
-           ## - Bullet point
            
       - role: Senior Software Engineer
         time: 2014 - 2015
