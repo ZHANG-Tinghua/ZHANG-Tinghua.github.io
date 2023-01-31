@@ -30,13 +30,13 @@ sidebar:
     ##pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
-      info:
-        - idiom: Chinese
-          level: Native
+     ## title: Languages
+     ## info:
+       ## - idiom: Chinese
+       ##   level: Native
 
-        - idiom: English
-          level: Fluency
+       ## - idiom: English
+       ##   level: Fluency
 
        ## - idiom: Spanish
        ##   level: Professional
@@ -58,7 +58,8 @@ career-profile:
     summary: |
         Tinghua Zhang received the B.S. degree in Mechanical and Electronic Engineering from Jimei University (JMU) in 2020, 
         and the M.S. degree in Mechanical Engineering from the Harbin Institute of Technology (Shenzhen) (HITSZ) in 2023. 
-        His research interests include OCT robot, surgical navigation, and optical tracking.
+        Currently, he is working at The Chinese University of Hong Kong (CUHK) as a research assiatant.
+        His research interest is in surgical navigation, including OCT robot ,optical tracking and force sensing.
 education:
     title: Education
     info:
