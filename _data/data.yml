@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: ZHANG_Tinghua@outlook.com
     ##phone: 012 345 6789
-    timezone: China/Hongkong
+    timezone: China/Hong Kong
     citizenship:
     website: scholar.google.com/citations?user=9m-yfCjlgTAC&hl=zh-CN #do not add http://
     ##linkedin: alandoe
@@ -63,8 +63,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Mechanical Engineering
-        university: Harbin Institute of Technology
+      - degree: Harbin Institute of Technology
+        university: MSc in Mechanical Engineering
         time: 2020/09 - 2023/01
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -74,8 +74,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Mechanical and Electronic Engineering
-        university: Jimei University
+      - degree: Jimei University
+        university: BSc in Mechanical and Electronic Engineering
         time: 2016/09 - 2020/07
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
