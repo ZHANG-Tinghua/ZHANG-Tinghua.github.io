@@ -76,7 +76,7 @@ education:
 publications:
     title: Publications
     intro: |
-
+    
     papers:
       - title: "Towards Tracking by 2D-target Registration for Surgical Optical Tracking System,"
         link: "#"
